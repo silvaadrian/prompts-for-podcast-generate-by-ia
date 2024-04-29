@@ -59,7 +59,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `adobeFirefly`
 
-## 👨‍💻 Expert
+## 👨‍💻 Developer
 
 <p>
     <img 
